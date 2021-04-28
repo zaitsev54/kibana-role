@@ -1,6 +1,6 @@
 galaxy_info:
   author: Alexey Zaitsev
-  description: Install Kibana Role
+  description: Install Kibana from remote host
   company: Netology
 
   # If the issue tracker for your role is not on github, uncomment the
@@ -14,7 +14,7 @@ galaxy_info:
   # - GPL-3.0-only
   # - Apache-2.0
   # - CC-BY-4.0
-  license: BSD
+  license: BSD-3-Clause
   min_ansible_version: 2.9
 
   # If this a Container Enabled role, provide the minimum Ansible Container version.
